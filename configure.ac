@@ -1,9 +1,9 @@
 AC_INIT(
     [arc-icon-theme],
     [20160605],
-    [https://github.com/horst3180/arc-icon-theme/issues],
+    [https://github.com/eti0/arc-icon-theme/issues],
     [arc-icon-theme],
-    [https://github.com/horst3180/arc-icon-theme]
+    [https://github.com/horst3180/arc-limon-icon-theme]
 )
 
 AM_INIT_AUTOMAKE([no-dist-gzip dist-xz foreign])
