@@ -1,7 +1,7 @@
 AC_INIT(
-    [arc-icon-theme],
+    [tuxedo-icons-theme-one],
     [20160605],
-    [https://github.com/eti0/arc-icon-theme/issues],
+    [https://github.com/tuxedocomputers/tuxedo-icons-theme-one/issues],
     [arc-icon-theme],
     [https://github.com/horst3180/arc-limon-icon-theme]
 )
