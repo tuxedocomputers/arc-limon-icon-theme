@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=TUXEDO One 
-Inherits=Papirus Dark,Moka,Adwaita,gnome,hicolor
+Name=TUXEDO One
+Inherits=Moka,Adwaita,gnome,hicolor
 Comment=TUXEDO One Icon theme
 
 #Directory list
