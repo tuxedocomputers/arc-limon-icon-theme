@@ -9,7 +9,7 @@ popd > /dev/null
 
 cd ${DIR}
 
-THEMEDIR=../TUXEDOOne
+THEMEDIR=../TUXEDO-One
 
 mkdir -p $THEMEDIR
 
